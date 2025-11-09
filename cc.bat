@@ -1,6 +1,6 @@
 @echo off
 REM ============================================================
-REM Pull latest Git changes and copy local_dev_configs to current directory
+REM Pull latest Git changes and copy files-to-copy to current directory
 REM ============================================================
 
 REM Get the directory where this script is stored (not the working dir)
@@ -56,6 +56,6 @@ echo.
 echo.
 echo.
 echo =======================================================================
-echo                      All done! Enjoy your updated repo!
+echo                      All done! Enjoy your updated directory!
 echo =======================================================================
 pause
